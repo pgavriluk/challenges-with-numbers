@@ -1,4 +1,4 @@
-package pavel.demo;
+package pavel.demo.string;
 
 import java.util.Scanner;
 
