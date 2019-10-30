@@ -12,7 +12,7 @@ public class InsertionSort {
 	}
 
 
-	static void insertionSort(int array[]) {
+	private static void insertionSort(int[] array) {
 
 		for (int step = 1; step < array.length; step++) {
 			int x = step;
