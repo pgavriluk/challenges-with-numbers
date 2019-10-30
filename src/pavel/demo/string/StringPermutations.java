@@ -2,7 +2,7 @@ package pavel.demo.string;
 
 public class StringPermutations {
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		permutation("123");
 	}
 

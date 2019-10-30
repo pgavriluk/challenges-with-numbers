@@ -4,7 +4,7 @@ public class Palindrome {
 
     private static String str = "alla";
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         System.out.println("Is '" + str + "' palindrome? " + isPalindromeString(str));
     }
 

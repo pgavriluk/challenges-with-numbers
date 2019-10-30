@@ -4,7 +4,7 @@ public class RemoveGivenCharacterFromString {
 
 	static String originalString = "Thisssss is an original String";
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		System.out.println(removeGivenCharacterFromString(originalString, "s"));
 		System.out.println(removeGivenCharacterFromStringRecursively(originalString, "s"));
 	}

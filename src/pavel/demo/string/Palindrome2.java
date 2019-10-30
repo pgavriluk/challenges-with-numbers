@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Palindrome2 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
         System.out.println("Please enter a String");
