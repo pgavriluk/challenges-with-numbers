@@ -37,6 +37,7 @@ public class AppleStockChallenge {
 
 		}
 
-		return sellPrice - buyPrice;
+		int profit = sellPrice - buyPrice;
+		return profit > 0 ? profit : 0;
 	}
 }
