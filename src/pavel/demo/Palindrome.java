@@ -1,4 +1,4 @@
-
+package pavel.demo;
 
 public class Main {
 
