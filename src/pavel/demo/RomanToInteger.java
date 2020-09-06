@@ -1,4 +1,4 @@
-package src.pavel.demo;
+package pavel.demo;
 
 
 import java.util.HashMap;
