@@ -3,7 +3,7 @@ package pavel.demo;
 
 import java.util.Stack;
 
-public class Main {
+public class QueueUsingStacks {
 
     public static void main(String[] args) {
 

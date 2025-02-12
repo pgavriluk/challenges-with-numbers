@@ -1,11 +1,11 @@
 package pavel.demo;
 
 
-public class Main {
+public class MinStack {
 
     public static void main(String[] args) {
 
-        MinStack minStack = new MinStack();
+        MinStack1 minStack = new MinStack1();
         minStack.push(-2);
         minStack.push(0);
         minStack.push(-3);
@@ -15,7 +15,7 @@ public class Main {
         minStack.getMin(); // return -2
     }
 
-    static class MinStack {
+    static class MinStack1 {
 
         /**
          * initialize your data structure here.
@@ -42,7 +42,7 @@ public class Main {
 
         private Node top;
 
-        public MinStack() {
+        public MinStack1() {
             top = null;
         }
 

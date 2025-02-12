@@ -1,7 +1,7 @@
 package pavel.demo;
 
 
-public class Main {
+public class ReverseLinkedList {
 
     public static void main(String[] args) {
         ListNode listNode = new ListNode();

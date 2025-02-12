@@ -4,7 +4,7 @@ package pavel.demo;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class StackUsingQueues {
 
     public static void main(String[] args) {
 

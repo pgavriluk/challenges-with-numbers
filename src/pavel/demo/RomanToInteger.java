@@ -3,7 +3,7 @@ package pavel.demo;
 
 import java.util.HashMap;
 
-public class Main {
+public class RomanToInteger {
 
     public static void main(String[] args) {
         System.out.println(romanToInt("MCMXCVI"));
